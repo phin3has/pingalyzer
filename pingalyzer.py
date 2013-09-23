@@ -1,4 +1,5 @@
-uthor: AWhiteHatter 
+'''
+Author: AWhiteHatter 
 Contact: awhitehttr@gmail.com
 Description: Simple Ping script that I'm using to teach myself Python. Advice is welcomed. 
 Version: 0.0 "Getting to know the ropes"
